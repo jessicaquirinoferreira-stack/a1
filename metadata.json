@@ -1,0 +1,6 @@
+{
+  "name": "4K Inspeção de Gás e Vistoria",
+  "description": "Site institucional e de alta conversão para 4K Inspeção de Gás e Vistoria - Autovistoria de gás obrigatória (Lei 6.890/2014), autovistoria predial, manutenção e laudos técnicos no RJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
