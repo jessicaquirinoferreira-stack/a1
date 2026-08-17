@@ -43,7 +43,7 @@ export const Hero: React.FC = () => {
         {/* Top Urgency Pill */}
         <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-red-500/20 border border-red-500/40 text-red-300 text-xs md:text-sm font-semibold mb-6 animate-pulse shadow-lg">
           <AlertTriangle className="w-4 h-4 text-red-400" />
-          <span>Lei Estadual nº 6.890/2014 & Lei nº 6.400 • Vistoria Obrigatória a cada 5 anos</span>
+          <span>Lei Estadual nº 6.890/2014 & Lei nº 6.400/13 • Vistoria Obrigatória a cada 5 anos</span>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
@@ -111,7 +111,7 @@ export const Hero: React.FC = () => {
             {/* Quick Metrics Bar */}
             <div className="grid grid-cols-3 gap-3 pt-2 max-w-xl">
               <div className="p-3 rounded-xl bg-slate-900/80 border border-slate-800">
-                <div className="text-xl sm:text-2xl font-bold text-amber-400 font-serif">+850</div>
+                <div className="text-xl sm:text-2xl font-bold text-amber-400 font-serif">+2.500</div>
                 <div className="text-[11px] sm:text-xs text-slate-400 font-medium">Vistorias Realizadas</div>
               </div>
               <div className="p-3 rounded-xl bg-slate-900/80 border border-slate-800">

@@ -53,7 +53,7 @@ export const ServicesSection: React.FC = () => {
                   src={service.image}
                   alt={service.title}
                   referrerPolicy="no-referrer"
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 filter brightness-90"
+                  className={`w-full h-full object-cover ${service.imagePosition || 'object-center'} group-hover:scale-105 transition-transform duration-500 filter brightness-90`}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent" />
                 

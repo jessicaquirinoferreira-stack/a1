@@ -78,7 +78,7 @@ export const AboutSection: React.FC = () => {
               </div>
               <div className="flex items-center gap-2 p-2.5 rounded-lg bg-slate-800/50 border border-slate-700/60">
                 <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
-                <span><strong>Leis Estaduais:</strong> Lei nº 6.890/14 e 6.400</span>
+                <span><strong>Leis Estaduais:</strong> Lei nº 6.890/14 e 6.400/13</span>
               </div>
             </div>
 

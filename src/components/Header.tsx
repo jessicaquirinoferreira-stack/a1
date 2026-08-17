@@ -33,7 +33,7 @@ export const Header: React.FC = () => {
           <div className="flex items-center flex-wrap gap-x-4 gap-y-1 text-slate-300">
             <span className="inline-flex items-center gap-1 font-medium text-emerald-400">
               <Shield className="w-3.5 h-3.5 text-emerald-400" />
-              Credenciada Inmetro • NBR 15526 & 13103
+              Credenciada Inmetro • 054
             </span>
             <span className="hidden sm:inline-block text-slate-600">|</span>
             <span className="inline-flex items-center gap-1">

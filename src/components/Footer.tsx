@@ -26,7 +26,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenModal }) => {
               />
               <div>
                 <div className="text-base font-bold text-white font-serif">{OFFICIAL_COMPANY_DATA.name}</div>
-                <div className="text-[11px] text-amber-400 font-semibold">Credenciada Inmetro • NBR 15526 / 13103</div>
+                <div className="text-[11px] text-amber-400 font-semibold">Credenciada Inmetro • 054</div>
               </div>
             </div>
 
@@ -67,7 +67,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenModal }) => {
               </li>
               <li>
                 <a href="#servicos" className="hover:text-amber-400 transition-colors block">
-                  Autovistoria Predial (Lei 6.400)
+                  Autovistoria Predial (Lei 6.400/13)
                 </a>
               </li>
               <li>

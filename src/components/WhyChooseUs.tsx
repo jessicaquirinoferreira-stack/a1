@@ -59,7 +59,7 @@ export const WhyChooseUs: React.FC = () => {
           {/* Social Proof Numbers Grid */}
           <div className="lg:col-span-6 grid grid-cols-2 gap-4">
             <div className="p-6 rounded-2xl bg-slate-900 border border-slate-800 shadow-xl flex flex-col justify-center">
-              <div className="text-3xl sm:text-4xl font-extrabold text-amber-400 font-serif mb-1">+850</div>
+              <div className="text-3xl sm:text-4xl font-extrabold text-amber-400 font-serif mb-1">+2.500</div>
               <div className="text-sm font-bold text-white mb-1">Vistorias Realizadas</div>
               <p className="text-xs text-slate-400">Em apartamentos, casas, condomínios e restaurantes no RJ.</p>
             </div>

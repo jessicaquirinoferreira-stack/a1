@@ -23,7 +23,7 @@ export const InspectionProcess: React.FC = () => {
       title: "Teste de Estanqueidade",
       desc: "Realizamos os testes de pressão e vedação das tubulações, além de checar a exaustão do aquecedor e a ventilação permanente.",
       icon: Activity,
-      highlight: "Normas NBR 15526 / 13103"
+      highlight: "Conforme Norma 054 / Inmetro"
     },
     {
       stepNumber: "04",

@@ -10,6 +10,7 @@ export interface ServiceItem {
   whatsappMessage: string;
   iconName: string;
   image: string;
+  imagePosition?: string;
 }
 
 export interface Testimonial {

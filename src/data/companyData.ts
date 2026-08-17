@@ -5,8 +5,8 @@ export const SERVICES_DATA: ServiceItem[] = [
     id: "autovistoria-gas",
     title: "Autovistoria de Gás",
     shortDesc: "Inspeção técnica obrigatória para apartamentos, casas e comércios no Estado do RJ com teste de estanqueidade e emissão de laudo oficial com ART/TRT.",
-    fullDesc: "Realizamos a autovistoria de gás obrigatória, conforme a Lei Estadual nº 6.890/2014, com profissionais certificados e empresa credenciada pelo Inmetro, proporcionando mais segurança e conformidade às instalações. (Normas: NBR 15526 e NBR 13103)",
-    norms: ["NBR 15526", "NBR 13103", "Lei Estadual nº 6.890/2014"],
+    fullDesc: "Realizamos a autovistoria de gás obrigatória, conforme a Lei Estadual nº 6.890/2014, com profissionais certificados e empresa credenciada pelo Inmetro, proporcionando mais segurança e conformidade às instalações. (Norma: 054 / Inmetro)",
+    norms: ["Norma 054", "Lei Estadual nº 6.890/2014"],
     law: "Lei Estadual nº 6.890/2014",
     badge: "Obrigatório por Lei no RJ",
     features: [
@@ -18,15 +18,16 @@ export const SERVICES_DATA: ServiceItem[] = [
     ],
     whatsappMessage: "Olá! Quero fazer a Autovistoria de Gás obrigatória pela Lei 6.890/2014",
     iconName: "Flame",
-    image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1200&q=80"
+    image: "https://i.postimg.cc/4xjTNBGS/Whats-App-Image-2026-08-17-at-13-48-19.jpg",
+    imagePosition: "object-[center_15%]"
   },
   {
     id: "autovistoria-predial",
     title: "Autovistoria Predial",
-    shortDesc: "Vistoria técnica detalhada para condomínios residenciais, comerciais e edifícios públicos em atendimento à Lei Estadual nº 6.400.",
-    fullDesc: "Realizamos a autovistoria predial obrigatória, em atendimento à Lei Estadual nº 6.400, contribuindo para a identificação de possíveis irregularidades e para a preservação da segurança e integridade da edificação.",
-    norms: ["Lei Estadual nº 6.400", "Normas ABNT NBR 16747", "Laudo com ART/CREA"],
-    law: "Lei Estadual nº 6.400",
+    shortDesc: "Vistoria técnica detalhada para condomínios residenciais, comerciais e edifícios públicos em atendimento à Lei Estadual nº 6.400/13.",
+    fullDesc: "Realizamos a autovistoria predial obrigatória, em atendimento à Lei Estadual nº 6.400/13, contribuindo para a identificação de possíveis irregularidades e para a preservação da segurança e integridade da edificação.",
+    norms: ["Lei Estadual nº 6.400/13", "Normas ABNT NBR 16747", "Laudo com ART/CREA"],
+    law: "Lei Estadual nº 6.400/13",
     badge: "Exigência para Condomínios",
     features: [
       "Inspeção visual e instrumental das fachadas e estruturas",
@@ -35,7 +36,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       "Prevenção contra desabamentos, trincas e infiltrações graves",
       "Relatório fotográfico com plano de ação e priorização de reformas"
     ],
-    whatsappMessage: "Olá! Quero solicitar a Autovistoria Predial (Lei Estadual nº 6.400) para meu condomínio/edifício",
+    whatsappMessage: "Olá! Quero solicitar a Autovistoria Predial (Lei Estadual nº 6.400/13) para meu condomínio/edifício",
     iconName: "Building2",
     image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80"
   },
